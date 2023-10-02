@@ -45,6 +45,9 @@ abi FungibleBridge {
     #[storage(read, write)]
     fn withdraw(to: b256);
 
+    #[storage(read)]
+    fn register_bridge();
+
     /// Get the bridged token
     fn bridged_token() -> b256;
 
