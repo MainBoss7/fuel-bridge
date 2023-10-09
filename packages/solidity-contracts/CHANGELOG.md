@@ -1,5 +1,13 @@
 # @fuel-bridge/solidity-contracts
 
+## 0.2.3
+
+### Patch Changes
+
+- Change erc721 tests to use their own fixture and remove some unrelated erc20 tests in them, by [@DefiCake](https://github.com/DefiCake) (See [#87](https://github.com/FuelLabs/fuel-bridge/pull/87))
+- Refactor of erc20 tests, upgrade of hardhat, by [@DefiCake](https://github.com/DefiCake) (See [#80](https://github.com/FuelLabs/fuel-bridge/pull/80))
+- Added beta4 new deployments, by [@DefiCake](https://github.com/DefiCake) (See [#84](https://github.com/FuelLabs/fuel-bridge/pull/84))
+
 ## 0.2.2
 
 ### Patch Changes

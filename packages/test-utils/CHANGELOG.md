@@ -1,5 +1,12 @@
 # @fuel-bridge/test-utils
 
+## 0.2.3
+
+### Patch Changes
+
+- Add a few helpers to aid in hardhat and integration tests, by [@DefiCake](https://github.com/DefiCake) (See [#85](https://github.com/FuelLabs/fuel-bridge/pull/85))
+- Refactor of erc20 tests, upgrade of hardhat, by [@DefiCake](https://github.com/DefiCake) (See [#80](https://github.com/FuelLabs/fuel-bridge/pull/80))
+
 ## 0.2.2
 
 ## 0.2.1
